@@ -8,7 +8,7 @@ Dynamic container animation on hover
 
 # Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/shorts/BjV60AT6OPA"></iframe>
+[![Alt text](https://img.youtube.com/vi/BjV60AT6OPA/0.jpg)](https://youtube.com/shorts/BjV60AT6OPA?feature=share)
 
 ```
 Flutter run -d chrome --web-port=8080
